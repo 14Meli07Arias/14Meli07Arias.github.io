@@ -1,2 +1,32 @@
-# 14Meli07Arias.github.io
-Biografias
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primer deber</title>
+</head>
+<body bgcolor="FFEBCD">
+    <center><h1> Biorafia Steve Wijler </h1></center>
+    <h3>twiter:<a href="https://twitter.com/steve_wijler " target=“blank”>  https://twitter.com/steve_wijler</a>.</h3>
+<p>Steve Wijler (19 de septiembre de 1996) es un deportista neerlandés que compite en tiro con arco, en la modalidad de arco recurvo.</p>
+<P>Participó en los Juegos Olímpicos de Tokio 2020, obteniendo una medalla de plata en la prueba de equipo mixto (junto con Gabriela Schloesser).
+En los Juegos Europeos de Minsk 2019 obtuvo dos medallas de plata, en las prueba individual y por equipo.</P>  
+<center><img src="https://www.handboogsport.nl/wp-content/uploads/2018/02/roma17_a17_0099-x3-1080x675.jpg" alt=> <center>
+ <p>
+    Ganó una medalla de bronce en el Campeonato Mundial de Tiro con Arco al Aire Libre de 2017, una medalla de oro en el Campeonato
+     Mundial de Tiro con Arco en Sala de 2018 y dos medallas de oro en el Campeonato Europeo de Tiro con Arco al Aire Libre, en 
+     los años 2018 y 2021.<br/>
+ </p>   
+
+
+ <center><h1> <br> Biografia Ann San</h1> </center>
+
+    <h3>twiter:<a href=" " target=“blank”>  no tiene </a>.</h3>
+    <p>An San (Gwangju, 27 de febrero de 2001) es una arquera surcoreana que compite en eventos recurvos femeninos. Ganó tres medallas 
+        de oro en los Juegos Olímpicos de Tokio 2020 en los eventos por equipos femenino, equipos mixtos e individual.</p>
+<center><img src="https://www.res.heraldm.com/content/image/2021/07/23/20210723000463_0.jpg" alt=> </center>
+
+</head>
+</body>
+</html>
