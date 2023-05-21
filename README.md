@@ -21,12 +21,11 @@ En los Juegos Europeos de Minsk 2019 obtuvo dos medallas de plata, en las prueba
 
 
  <center><h1> <br> Biografia Ann San</h1> </center>
-
+ <p○>
     <h3>twiter:<a href=" " target=“blank”>  no tiene </a>.</h3>
-    <p>An San (Gwangju, 27 de febrero de 2001) es una arquera surcoreana que compite en eventos recurvos femeninos. Ganó tres medallas 
-        de oro en los Juegos Olímpicos de Tokio 2020 en los eventos por equipos femenino, equipos mixtos e individual.</p>
-<center><img src="https://www.res.heraldm.com/content/image/2021/07/23/20210723000463_0.jpg" alt=> </center>
-
-</head>
+    An San (Gwangju, 27 de febrero de 2001) es una arquera surcoreana que compite en eventos recurvos femeninos. Ganó tres medallas 
+    de oro en los Juegos Olímpicos de Tokio 2020 en los eventos por equipos femenino, equipos mixtos e individual.
+    <center><img src="https: //upload.wikimedia.org/wikipedia/commons/thumb/8/89/AnSanMarieClaireKorea2021.png/320px-AnSanMarieClaireKorea2021.png" alt=> <center></center>
+ </p>
 </body>
 </html>
